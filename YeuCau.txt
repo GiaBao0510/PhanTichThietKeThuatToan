@@ -1,0 +1,7 @@
+YeuCau1 1 7
+YeuCau2 0 5
+YeuCau3 4 10
+YeuCau4 5 8
+YeuCau5 9 18
+YeuCau6 10 20
+YeuCau7 1 4

@@ -1,0 +1,5 @@
+37
+15 	20 	do vat A 1
+10 	25 	do vat B 1
+2 	2   	do vat C 1
+4 	6   	do vat D 1
